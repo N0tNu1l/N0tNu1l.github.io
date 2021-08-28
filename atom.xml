@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Raki</title>
   
-  
+  <subtitle>Raki is a blog</subtitle>
   <link href="https://zpy-gscsd.github.io/atom.xml" rel="self"/>
   
   <link href="https://zpy-gscsd.github.io/"/>
-  <updated>2021-08-08T16:54:34.934Z</updated>
+  <updated>2021-08-28T14:38:02.381Z</updated>
   <id>https://zpy-gscsd.github.io/</id>
   
   <author>
@@ -17,18 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Github渗透测试工具库</title>
+    <link href="https://zpy-gscsd.github.io/2021/08/28/github-shen-tou-ce-shi-gong-ju-ku/"/>
+    <id>https://zpy-gscsd.github.io/2021/08/28/github-shen-tou-ce-shi-gong-ju-ku/</id>
+    <published>2021-08-28T12:50:27.000Z</published>
+    <updated>2021-08-28T14:38:02.381Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;漏洞练习平台&quot;&gt;&lt;a href=&quot;#漏洞练习平台&quot; class=&quot;headerlink&quot; title=&quot;漏洞练习平台&quot;&gt;&lt;/a&gt;漏洞练习平台&lt;/h3&gt;&lt;p&gt;WebGoat漏洞练习平台：&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="security" scheme="https://zpy-gscsd.github.io/categories/security/"/>
+    
+    
+    <category term="渗透" scheme="https://zpy-gscsd.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    
+    <category term="security" scheme="https://zpy-gscsd.github.io/tags/security/"/>
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="https://zpy-gscsd.github.io/2021/08/08/test/"/>
     <id>https://zpy-gscsd.github.io/2021/08/08/test/</id>
     <published>2021-08-08T06:59:56.000Z</published>
-    <updated>2021-08-08T16:54:34.934Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-none"><code class="language-none">this is a test<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+    <updated>2021-08-28T14:37:48.185Z</updated>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre class=&quot;l</summary>
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre</summary>
+        
       
     
     
@@ -47,17 +75,20 @@
     <link href="https://zpy-gscsd.github.io/2021/08/08/hello-world/"/>
     <id>https://zpy-gscsd.github.io/2021/08/08/hello-world/</id>
     <published>2021-08-08T04:11:40.513Z</published>
-    <updated>2021-08-08T16:30:45.021Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <updated>2021-08-28T14:55:13.809Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
       
     
     
+    
+    <category term="Markdown" scheme="https://zpy-gscsd.github.io/categories/Markdown/"/>
     
     
     <category term="Markdown" scheme="https://zpy-gscsd.github.io/tags/Markdown/"/>
