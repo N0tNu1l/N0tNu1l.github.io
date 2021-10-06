@@ -6,7 +6,7 @@
   <link href="https://zpy-gscsd.github.io/atom.xml" rel="self"/>
   
   <link href="https://zpy-gscsd.github.io/"/>
-  <updated>2021-09-19T09:01:15.607Z</updated>
+  <updated>2021-10-06T11:44:03.358Z</updated>
   <id>https://zpy-gscsd.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web安全(二)——信息收集</title>
+    <link href="https://zpy-gscsd.github.io/2021/09/21/web-an-quan-er-xin-xi-shou-ji/"/>
+    <id>https://zpy-gscsd.github.io/2021/09/21/web-an-quan-er-xin-xi-shou-ji/</id>
+    <published>2021-09-21T09:24:07.000Z</published>
+    <updated>2021-10-06T11:44:03.358Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;信息收集&quot;&gt;&lt;a href=&quot;#信息收集&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="security" scheme="https://zpy-gscsd.github.io/categories/security/"/>
+    
+    
+    <category term="渗透" scheme="https://zpy-gscsd.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    
+    <category term="security" scheme="https://zpy-gscsd.github.io/tags/security/"/>
+    
+  </entry>
   
   <entry>
     <title>Web安全(一)——基础入门</title>
